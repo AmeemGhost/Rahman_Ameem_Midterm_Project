@@ -1,0 +1,122 @@
+.hidden {
+    display: none;
+  }
+
+html, body {
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    background-image: url("/img/background.jpg");
+    background-position: center;
+    background-position-x: center;
+  }
+
+  .navlink {
+    display: flex;
+    justify-content: center;
+  }
+
+  .navmenu {
+    /* margin-bottom: 5px; */
+    z-index:105;
+  }
+.navlink {
+    font-size: 14px;
+    text-transform: uppercase;
+    display: flex;
+   justify-content: center;
+}
+.navlink a {
+ color: #000;
+ padding: 20px 20px 0 20px;
+ text-decoration: none;
+ margin-top: 20px;
+ font-size: 18px;
+ letter-spacing: 1px;
+ word-spacing: 1px;
+}
+
+.myContainer {
+    width: 80%;
+    margin: 0 auto;
+    display:block;
+    background-color:#fff;
+    /* margin-top: -66px; */
+    /* overflow: hidden; */
+}
+
+.dcmImage {
+    text-align: center;
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom:20px;
+}
+
+.marvelmImage {
+    text-align: center;
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom:20px;
+}
+
+.dcImage {
+    text-align: center;
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom:20px;
+}
+
+.myComics {
+    font-size: 28px;
+    text-align: center;
+    color: #333333;
+    margin-top: 20px;
+}
+
+.comicsText {
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 18px;
+    color: #666666;
+}
+
+.myText {
+    text-align: center;
+    font-size: 28px;
+    color: #333333;
+    margin-top: 20px;
+}
+
+.comics-text {
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: center;
+    margin-top: -25px;
+    margin-bottom: 50px;
+    padding: 20px;
+    font-size: 18px;
+    color: #333333;
+}
+
+.meText {
+    text-align: center;
+    font-size: 28px;
+    color: #333333;
+    margin-top: 20px;
+}
+
+.comic-text {
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: center;
+    margin-top: -25px;
+    margin-bottom: 50px;
+    padding: 20px;
+    font-size: 18px;
+    color: #333333;
+}
