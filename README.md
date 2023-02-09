@@ -1,1 +1,3 @@
 # Rahman_Ameem_Midterm_Project
+
+DC Comics and Marvel have dominated the comic-book industry for over 6 decades. Which of the two fiction universes do you prefer? Together they account for over 80% of the American comic-book market. DC Comics and Marvel Comics have been the leading comic-book companies for over 6 decades. Both have created unique characters, and universes that have expanded beyond comic-books into the cinema, TV, video games and toy industries. Thanks to excellent comic-writers and Hollywood super heroes are nowadays undergoing a new golden age. Their impact on popular culture shouldn't be understated.
